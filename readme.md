@@ -20,4 +20,4 @@ The plan is to modify the data further, so the numbers also include new cases to
 
 ## Creator
 
-[Hans-Henrik Høgsted](hh.hoegsted@gmail.com)
+Hans-Henrik Høgsted <hh.hoegsted@gmail.com>
